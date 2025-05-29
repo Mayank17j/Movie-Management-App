@@ -1,5 +1,5 @@
 ```markdown
-# Movie Curator
+# Movie Management App
 
 A web application for discovering, organizing, and reviewing movies using the TMDB API.
 
@@ -15,17 +15,17 @@ A web application for discovering, organizing, and reviewing movies using the TM
 
 ## Tech Stack
 
-- **Backend**: Node.js, Express
-- **Database**: Sequelize (SQL)
-- **API**: TMDB (The Movie Database)
-- **Testing**: Jest (TODO)
+- **Backend** : Node.js, Express
+- **Database** : Sequelize (SQL)
+- **API** : TMDB (The Movie Database)
+- **Testing** : Jest (TODO)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/movie-curator.git
-   cd movie-curator
+   cd movie-management-app
    ```
 
 2. Install dependencies:
