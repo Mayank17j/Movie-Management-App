@@ -1,4 +1,3 @@
-```markdown
 # Movie Management App
 
 A web application for discovering, organizing, and reviewing movies using the TMDB API.
@@ -15,11 +14,10 @@ A web application for discovering, organizing, and reviewing movies using the TM
 
 ## Tech Stack
 
-- **Backend** : Node.js, Express
-- **Database** : Sequelize (SQL)
-- **API** : TMDB (The Movie Database)
-- **Testing** : Jest (TODO)
-```
+- **Backend**: Node.js, Express
+- **Database**: Sequelize (SQL)
+- **API**: TMDB (The Movie Database)
+- **Testing**: Jest (TODO)
 
 ## Installation
 
