@@ -19,6 +19,7 @@ A web application for discovering, organizing, and reviewing movies using the TM
 - **Database** : Sequelize (SQL)
 - **API** : TMDB (The Movie Database)
 - **Testing** : Jest (TODO)
+```
 
 ## Installation
 
